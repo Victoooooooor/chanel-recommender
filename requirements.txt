@@ -1,0 +1,8 @@
+ipykernel
+datasets
+pillow
+matplotlib
+seaborn
+pandas
+numpy
+requests
