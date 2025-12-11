@@ -1,3 +1,4 @@
 pycache/
 data/images/
 venv/
+__pycache__/
