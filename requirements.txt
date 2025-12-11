@@ -8,4 +8,9 @@ numpy
 requests
 torchvision
 transformers
-sklearn
+scikit-learn
+sentencepiece
+sacremoses
+streamlit
+clip
+sentence_transformers
