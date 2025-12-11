@@ -1,6 +1,6 @@
 # README
 
-## Plateforme de recommendation de produit chanel selon la description, un image ou bien les deux
+## Plateforme de recommendation de produit chanel selon la description, un image ou bien les deux.
 
 # 1. Créer un environnement virtuel (isole les dépendances du projet)
 python -m venv venv
