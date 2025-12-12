@@ -12,5 +12,7 @@ scikit-learn
 sentencepiece
 sacremoses
 streamlit
-clip
+git+https://github.com/openai/CLIP.git
 sentence_transformers
+tensorflow
+tf-keras
